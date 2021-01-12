@@ -1,0 +1,50 @@
+item {
+  name: "none_of_the_above"
+  label: 0
+  display_name: "background"
+}
+item {
+  name: "bed"
+  label: 1
+  display_name: "bed"
+}
+item {
+  name: "cabinet"
+  label: 2
+  display_name: "cabinet"
+}
+item {
+  name: "chair"
+  label: 3
+  display_name: "chair"
+}
+item {
+  name: "table"
+  label: 4
+  display_name: "table"
+}
+item {
+  name: "sofa"
+  label: 5
+  display_name: "sofa"
+}
+item {
+  name: "closestool"
+  label: 6
+  display_name: "closestool"
+}
+item {
+  name: "door"
+  label: 7
+  display_name: "door"
+}
+item {
+  name: "refrigerator"
+  label: 8
+  display_name: "refrigerator"
+}
+item {
+  name: "washer"
+  label: 9
+  display_name: "washer"
+}
