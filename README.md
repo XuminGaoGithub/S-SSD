@@ -52,3 +52,16 @@ X. Gao, L. Jiang, X. Guang., et al. Real-time Indoor Semantic Map Construction C
 
 The S-SSD which is a lightweight object detection network based on the SSD network. The innovation of S-SSD is that we designed an efficient and lightweight feature extraction network to replace the VGG network. Compared with the original SSD, the detection speed of S-SSD increased by 2.6 times, while keeping the detection accuracy basically static. It was able to simultaneously meet detection accuracy and real-time performance for the object detection of indoor mobile robots.
 
+1.S-SSD
+
+![Image text](https://github.com/XuminGaoGithub/S-SSD/blob/main/S-SSD.png)
+
+2.The comparison results of different detection networks performance on real scenes
+
+![Image text](https://github.com/XuminGaoGithub/S-SSD/blob/main/1.png)
+
+3.Indoor semantic map construction using mobile robots
+
+![Image text](https://github.com/XuminGaoGithub/S-SSD/blob/main/2.png)
+
+
