@@ -1,6 +1,6 @@
 #S-SSD(A lightweight object detection network for mobile robots by improving the SSD (Single Shot MultiBox Detector) network):
 
-#Authur：Xumin Gao (Institute of Robotics and Intelligent Systems, Wuhan University of Science and Technology, China)
+#Authur：Xumin Gao,, Lin Jiang (Institute of Robotics and Intelligent Systems, Wuhan University of Science and Technology, China)
 
 #It is a part of the paper: 
 
