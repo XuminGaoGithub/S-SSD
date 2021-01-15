@@ -35,9 +35,9 @@ X. Gao, L. Jiang, X. Guang., et al. Real-time Indoor Semantic Map Construction C
 
 # Usage
 
-###Dataset
+### Dataset
 
--We can't publish the indoor object detection data set at present.If you want to obtain data sets, you can contact me or the director of the Institute of robotics and intelligent systems, Wuhan University of science and technology.
+-We can't publish the indoor object detection dataset at present.If you want to obtain the dataset, you can contact me or the director of the Institute of robotics and intelligent systems, Wuhan University of science and technology.
 
 ### Train
 
