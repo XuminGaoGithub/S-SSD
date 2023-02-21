@@ -4,7 +4,7 @@
 
 #It is a part of work for following paper: 
 
-X. Gao, L. Jiang, X. Guang., et al. Real-time Indoor Semantic Map Construction Combined with The Lightweight Object Detection Network. The 2020 2nd International Conference on Artificial Intelligence Technologies and Applications (ICAITA 2020). Dalian.
+Xumin Gao, et al. Real-time Indoor Semantic Map Construction Combined with The Lightweight Object Detection Network. The 2020 2nd International Conference on Artificial Intelligence Technologies and Applications (ICAITA 2020). Dalian.
 
 
 #E-mail: comin15071460998@gmail.com
