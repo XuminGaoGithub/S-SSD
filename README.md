@@ -37,7 +37,7 @@ X. Gao, L. Jiang, X. Guang., et al. Real-time Indoor Semantic Map Construction C
 
 ### Dataset
 
--We made indoor object detection dataset by ourselves. The authors do not have permission to share data.
+-Prepare your detection dataset using VOC format.
 
 ### Train
 
