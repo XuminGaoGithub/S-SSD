@@ -1,8 +1,8 @@
 # S-SSD(A lightweight object detection network for mobile robots by improving the SSD network)
 
-# Authur：Xumin Gao, et al. (Institute of Robotics and Intelligent Systems, Wuhan University of Science and Technology, China)
+#Authur：Xumin Gao, et al. (Institute of Robotics and Intelligent Systems, Wuhan University of Science and Technology, China)
 
-# It is a part of work for following paper: 
+#It is a part of work for following paper: 
 
 Xumin Gao, et al. Real-time Indoor Semantic Map Construction Combined with The Lightweight Object Detection Network. The 2020 2nd International Conference on Artificial Intelligence Technologies and Applications (ICAITA 2020). Dalian.
 
